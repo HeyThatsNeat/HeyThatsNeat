@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hunter</h1>
 <h3 align="center">An eager full stack developer from the D.C. area.</h3>
 
+###### As a former barista turned full-stack developer, I have developed a strong passion for collaboration and creative problem-solving. Throughout my career, I have collaborated with diverse teams in fast-paced environments, honing my teamwork and communication skills to tackle complex challenges and deliver innovative solutions. Whether working in the service industry or in software development, I approach every project with a focus on clear communication, attention to detail, and a dedication to producing meaningful work that makes a positive impact.
+<h1></h1>
+
 - 🌱 I’m currently learning **Python and Django**
 
 - 👨‍💻 All of my projects are available at [TBA](TBA)
