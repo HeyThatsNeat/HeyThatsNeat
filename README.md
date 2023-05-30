@@ -12,8 +12,6 @@
 
 - 📫 How to reach me **Phantazm777@verizon.net**
 
-- 📄 Know about my experiences [TBA](TBA)
-
 - ⚡ Fun fact **I was a barista and still am at heart**
 
 ### Connect with me:
