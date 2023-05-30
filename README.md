@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <h4 align="left">
-[My LinkedIn](https://www.linkedin.com/in/hunter-eckhoff/)
+[My LinkedIn]('https://www.linkedin.com/in/hunter-eckhoff/')
 </h4>
 
 <h3 align="left">Languages and Tools:</h3>
