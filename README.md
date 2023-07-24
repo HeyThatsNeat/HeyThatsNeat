@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Python and Django**
 
-- 👨‍💻 All of my projects are available at [TBA](TBA)
+- 👨‍💻 All of my projects are available on my [Portfolio](https://heythatsneat.github.io/)
 
 - 💬 Ask me about **my Starry Knight project**
 
